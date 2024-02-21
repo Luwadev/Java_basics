@@ -13,7 +13,7 @@ public class AddThreeNumbers {
         System.out.print((answer == (num1 + num2 + num3)) ? "Correct	" : "Wrong The Sum of " + num1 + ", " + num2 + " and " + num3 + " is " + (num1 + num2 + num3));
         input.close();
         
-        // System.out.print(MaxNumbers.max(num1, num2));
+        
     }
     
 }
